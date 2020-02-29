@@ -17,6 +17,7 @@ Drew Conway y John Myles White | Machine Learning for Hackers | 2000
 
 
 ### Codigo Python
+~~~
 a = int(input("ingrese el primer nota   "))
 b = int(input("ingrese el segunda nota   "))
 c = int(input("ingrese el tercera nota   "))
@@ -29,6 +30,8 @@ if(definitiva >=3):
     print ("El estudiante gano con:  " + str(definitiva))
 else:
     print("El estudiante perdio con:  " + str(definitiva))
-    
-    
+ ~~~
+ ### imagen 
+
+![motocicleta](/imagenes/diseñomotocicleta.jpg)
  >esto es una cita Peter Harrington
